@@ -1,16 +1,27 @@
-### Hi there 👋
+### Привет, меня зовут Богдан! 👋
 
-<!--
-**BogdanTanchuk/BogdanTanchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - РГУ нефти и газа им. И.М.Губкина (бакалавр) - Экономика и Управление;
+  - РГУ нефти и газа им. И.М.Губкина (магистр - 2024 г.) - Экономика и Управление;
+  - МФТИ (магистр - 2025 г.) - Data science
+* 
+*  
+* 
+* 
 
-Here are some ideas to get you started:
+### 📚 Проекты 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда](https://github.com/BogdanTanchuk/sf_data_science/tree/test) чтобы посмотреть игру с угадыванием числа
+* Кликни [сюда](https://github.com/BogdanTanchuk/DataCleaningProject) чтобы посмотреть проект с очисткой данных
+
+### 💡 Основные компетенции 💡
+- Инструменты: Python, SQL
+- Skills: 
+    * Mathematical Statistics;
+    * Dashboard Design and Development
+    * 
+
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](https://t.me/svyaz_1)
